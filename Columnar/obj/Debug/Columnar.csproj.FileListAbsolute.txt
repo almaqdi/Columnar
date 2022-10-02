@@ -1,0 +1,9 @@
+c:\users\almaqdi\documents\visual studio 2017\Projects\Columnar\Columnar\bin\Debug\Columnar.exe.config
+c:\users\almaqdi\documents\visual studio 2017\Projects\Columnar\Columnar\bin\Debug\Columnar.exe
+c:\users\almaqdi\documents\visual studio 2017\Projects\Columnar\Columnar\bin\Debug\Columnar.pdb
+c:\users\almaqdi\documents\visual studio 2017\Projects\Columnar\Columnar\obj\Debug\Columnar.csprojResolveAssemblyReference.cache
+c:\users\almaqdi\documents\visual studio 2017\Projects\Columnar\Columnar\obj\Debug\Columnar.Form1.resources
+c:\users\almaqdi\documents\visual studio 2017\Projects\Columnar\Columnar\obj\Debug\Columnar.Properties.Resources.resources
+c:\users\almaqdi\documents\visual studio 2017\Projects\Columnar\Columnar\obj\Debug\Columnar.csproj.GenerateResource.Cache
+c:\users\almaqdi\documents\visual studio 2017\Projects\Columnar\Columnar\obj\Debug\Columnar.exe
+c:\users\almaqdi\documents\visual studio 2017\Projects\Columnar\Columnar\obj\Debug\Columnar.pdb
